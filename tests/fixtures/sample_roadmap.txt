@@ -1,0 +1,10 @@
+- Dark mode and theming support
+- CSV and Excel data export
+- Bulk actions and multi-select
+- Mobile app improvements
+- API rate limit increases
+- SSO and enterprise authentication
+- Advanced analytics and reporting dashboard
+- Webhook integrations
+- Audit log and activity history
+- Onboarding flow improvements
